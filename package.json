@@ -1,5 +1,5 @@
 {
-  "name": "ymler",
+  "name": "yamler",
   "version": "1.0.0",
   "description": "A yaml+nunjucks file for javascript advanced configuration",
   "main": "index.js",
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/mateusnroll/ymler#readme",
   "dependencies": {
-    "js-yaml": "^3.6.1",
-    "nunjucks": "^2.5.2"
+    "handlebars": "^4.0.5",
+    "js-yaml": "^3.6.1"
   }
 }

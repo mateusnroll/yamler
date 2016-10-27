@@ -1,0 +1,25 @@
+{
+  "name": "ymler",
+  "version": "1.0.0",
+  "description": "A yaml+nunjucks file for javascript advanced configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusnroll/ymler.git"
+  },
+  "keywords": [
+    "yaml",
+    "nunjucks",
+    "ymler",
+    "node"
+  ],
+  "author": "Mateus Pinheiro <mateus.pinheiro@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mateusnroll/ymler/issues"
+  },
+  "homepage": "https://github.com/mateusnroll/ymler#readme"
+}

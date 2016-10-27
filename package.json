@@ -1,6 +1,6 @@
 {
   "name": "yamler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A yaml+handlebars file for javascript advanced configuration",
   "main": "index.js",
   "scripts": {
